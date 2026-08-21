@@ -11,7 +11,7 @@ New-Item -ItemType Directory -Force -Path $src | Out-Null
 
 # List of files to download (RAW links!)
 $files = @(
-    @{ url = "https://raw.githubusercontent.com/xijammy/mw4configs/main/s.1.0.cod25.m"; name = "s.1.0.bt.cod26.txt" }
+    @{ url = "https://raw.githubusercontent.com/xijammy/mw4configs/main/s.1.0.bt.cod26.txt"; name = "s.1.0.bt.cod26.txt" }
 
 )
 
