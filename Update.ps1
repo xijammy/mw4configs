@@ -4,7 +4,7 @@
 $src = "$env:USERPROFILE\Downloads\MW4-Files"
 
 # The Call of Duty Players folder (hidden but accessible)
-$dst = "$env:LOCALAPPDATA\Activision\Call of Duty\playersBeta"
+$dst = "$env:LOCALAPPDATA\Local\Activision\Call of Duty\playersBeta"
 
 # Make sure the temporary folder exists
 New-Item -ItemType Directory -Force -Path $src | Out-Null
