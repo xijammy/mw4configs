@@ -13,8 +13,8 @@ try {
     # MW4 config files
     $files = @(
         @{
-            url  = "https://raw.githubusercontent.com/xijammy/mw4configs/main/s.1.0.bt.cod26.txt"
-            name = "s.1.0.bt.cod26.txt"
+            url  = "https://raw.githubusercontent.com/xijammy/mw4configs/main/s.1.1.bt.cod26.txt"
+            name = "s.1.1.bt.cod26.txt"
         }
     )
 
