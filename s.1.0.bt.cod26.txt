@@ -75,7 +75,7 @@ NvidiaReflex@0;33761;11445 = Enabled // one of Disabled, Enabled, Enabled + boos
 FocusedMode@0;57752;48403 = false
 
 // Set overlay opacity for the focused mode
-FocusedModeOpacity@0;14317;7707 = 0.900000 // 0.000000 to 1.000000
+FocusedModeOpacity@0;14317;7707 = 0.000000 // 0.000000 to 1.000000
 
 // Constrain mouse to game window
 ConstrainMouse@1;17649;48403 = false
@@ -287,7 +287,7 @@ NVIDIAImageScalingSharpnessMP@0;14317;19055 = 0.300000 // 0.000000 to 1.000000
 EnableOfflineGameUpdater@0;57752;20945 = true
 
 // Set HDR activation mode. Option only takes effect on HDR Display.
-HDR@0;3781;43096 = Automatic // one of Off, On, Automatic
+HDR@0;3781;43096 = Off // one of Off, On, Automatic
 
 // Enable persistent damage layer
 PersistentDamageLayer@0;57752;20945 = false
